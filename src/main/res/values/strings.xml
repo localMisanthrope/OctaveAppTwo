@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OctaveAppTwo</string>
+    <string name="login_text">Enter your information to login to Octave</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="pic_content_desc">Profile Picture.</string>
+</resources>
